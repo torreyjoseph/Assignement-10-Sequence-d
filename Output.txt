@@ -1,0 +1,8 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Users/joseph/Desktop/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=60960:/Users/joseph/Desktop/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/joseph/IdeaProjects/Sequence'd/out/production/Sequence'd Main
+
+First 10 Square Numbers: 1 4 9 16 25 36 49 64 81 100 
+First 10 Cube Numbers: 1 8 27 64 125 216 343 512 729 1000 
+First 10 Fibonacci Numbers from 1: 1 1 2 3 5 8 13 21 34 55 89 
+First 10 Prime Numbers: 2 3 5 7 11 13 17 19 23 29 
+First 10 Triangle Numbers: 3 6 10 15 21 28 36 45 55 
+Process finished with exit code 0
